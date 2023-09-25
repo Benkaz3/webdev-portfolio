@@ -168,7 +168,7 @@ export default function renderHtml() {
         where creativity meets technical skills. I'm excited for the future 
         and the endless possibilities on this ever-evolving path.
         </p>
-          <a href="assets/media/resume.pdf" class="btn btn-invert">My Resume</a>
+          <a href="assets/media/resume.pdf" class="btn btn-invert" target="_blank">My Resume</a>
         </div>
       </div>
     </div>
