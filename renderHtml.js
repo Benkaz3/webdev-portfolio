@@ -187,7 +187,7 @@ export default function renderHtml() {
       I'm here to help. Reach out, and let's start a conversation! 😊✉️
       </p>
       <a 
-        href="mailto:tran.dung@hotmail.com" class="btn btn-invert">tran.dung@hotmail.com</a>
+        href="mailto:tran.dung@hotmail.com?subject=Hi&body=Let's%20talk!" class="btn btn-invert" target="_blank" rel="noopener noreferrer">tran.dung@hotmail.com</a>
     </div>
   </div>
 </section>
@@ -199,22 +199,22 @@ export default function renderHtml() {
     <!-- Update the links to point to your accounts -->
     <ul class="footer__social-links">
       <li class="footer__social-link-item">
-        <a href="https://twitter.com/nisarhassan12/" title="Link to Twitter Profile">
+        <a href="#" title="Link to Twitter Profile" target="_blank">
           <img src="/assets/images/twitter.svg" class="footer__social-image" alt="Twitter">
         </a>
       </li>
       <li class="footer__social-link-item">
-        <a href="https://github.com/nisarhassan12/" title="Link to Github Profile">
+        <a href="https://github.com/Benkaz3" title="Link to Github Profile" target="_blank">
           <img src="/assets/images/github.svg" class="footer__social-image" alt="Github">
         </a>
       </li>
       <li class="footer__social-link-item">
-        <a href="https://codepen.io/nisar_hassan" title="Link to Codepen Profile">
+        <a href="#" title="Link to Codepen Profile" target="_blank">
           <img src="/assets/images/codepen.svg" class="footer__social-image" alt="Codepen">
         </a>
       </li>
       <li class="footer__social-link-item">
-        <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+        <a href="https://www.linkedin.com/in/dungtran83/" target="_blank">
           <img src="/assets/images/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
         </a>
       </li>
